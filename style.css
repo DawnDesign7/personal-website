@@ -72,6 +72,9 @@ section .title::after {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  position: fixed;
+  top: 0%;
+  width: 100%;
 }
 .topnav a {
   float: left;
