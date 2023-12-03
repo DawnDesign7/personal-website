@@ -1,7 +1,7 @@
 # personal-website
 
 ## Dawn Ndemo Personal Website
-link to site: https://dawndesign7.github.io/personal-website/
+link to site: https://dawn-ndemo.github.io/personal-website/
 
 ### Tools Used:
 - HTML
